@@ -1,0 +1,6 @@
+{
+  "name": "LocalShare - Offline Cross-Device Transfer",
+  "description": "Lightweight local Wi-Fi file sharing web app between Windows, Mac, iPhone, and Android without internet access. Fast QR code pairing, streaming transfer, and no cloud required.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
